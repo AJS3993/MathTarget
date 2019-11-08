@@ -4,7 +4,7 @@
 
 ## Purpose
 
-Teach math to kids
+Click the numbers and signs in a way that makes the target. Careful! you only get 3 misses before you have to start over.
 
 ## User Stories
 
